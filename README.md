@@ -3,7 +3,7 @@
 > **Đồ Án Chuyên Đề Backend (SERN Architecture)**  
 > **Sinh viên thực hiện:** Trần Trọng Quyết (MSSV: 425000143 – Lớp: 25CT401)  
 > **Đơn vị:** Khoa Công Nghệ Thông Tin – Trường Đại học Lạc Hồng (LHU Đồng Nai)  
-> **Kho lưu trữ GitHub:** [TranTrongQuyet-1812/BookNest](https://github.com/TranTrongQuyet-1812/BookNest)
+> **Kho lưu trữ GitHub:** [TranTrongQuyet-1812/booknest-ecommerce](https://github.com/TranTrongQuyet-1812/booknest-ecommerce)
 
 ---
 
